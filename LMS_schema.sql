@@ -1,8 +1,4 @@
--- Active: 1686788664084@@127.0.0.1@5432@SQL-Portfolio
-/* Library Management System
-Schema & Tables
-© 2023 Tushar Aggarwal. All rights reserved.
-*/
+
 
 /* ======================= TABLES ========================*/
 CREATE TABLE books(
